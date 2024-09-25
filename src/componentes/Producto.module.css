@@ -1,0 +1,32 @@
+.tarjeta {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.imagen {
+    max-width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+
+.titulo {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+.precio {
+    color: #007BFF;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.descripcion {
+    font-size: 0.9rem;
+    color: #555;
+    height: 60px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
