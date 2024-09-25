@@ -35,5 +35,5 @@ npm: Lo usé para manejar todas las librerías y dependencias del proyecto, mant
 
 Datos Personales
 
-Nombre Completo: JOSE LUIS MAMANI MOLLISACA
+Nombre: JOSE LUIS MAMANI MOLLISACA
 Número de WhatsApp: 77550452
